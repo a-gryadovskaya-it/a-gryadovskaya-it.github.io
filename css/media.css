@@ -1,0 +1,253 @@
+@media (max-width: 480px) {
+	#about {
+		background-size: cover;
+	}
+	.about_heading {
+		font-size: 28px;
+		margin-top: 5px;
+		margin-bottom: 5px;
+	}
+	.text_shadow {
+		font-size: 18px;
+	}
+	.server_features {
+		font-size: 20px;
+		margin-bottom: 10px;
+	}
+	.about_server {
+		font-size: 15px;
+	}
+	.header_bottom {
+		font-size: 13px;
+	}
+	.section_heading {
+		font-size: 26px;
+	}
+	.mod_heading {
+		font-size: 26px;
+	}
+	.mod_info {
+		font-size: 12px;
+	}
+	.download {
+		height: 57px;
+		font-size: 12px;
+		margin-bottom: 20px;
+	}
+	.gallery_header {
+		font-size: 28px;
+	}
+	.fotorama {
+		margin-bottom: 25px;
+	}
+	.rating_header {
+		font-size: 28px;
+	}
+	.organiser {
+		font-size: 12px;
+	}
+	.organiser_header {
+		font-size: 13px;
+	}
+	.webs {
+		width: 30px;
+		height: 30px;
+	}
+	.sign_up {
+		height: 50px;
+		width: 150px;
+		font-size: 12px;
+	}
+}
+@media (min-width: 481px) {
+	#about {
+		background-size: cover;
+	}
+	.about_heading {
+		font-size: 40px;
+	}
+	.text_shadow {
+		font-size: 17px;
+	}
+	.server_features {
+		font-size: 18px;
+	}
+	.about_server {
+		font-size: 15px;
+	}
+	.header_bottom {
+		font-size: 12px;
+	}
+	.section_heading {
+		font-size: 38px;
+	}
+	.mod_heading {
+		font-size: 28px;
+	}
+	.mod_info {
+		font-size: 13px;
+	}
+	.download {
+		font-size: 16px;
+		margin-bottom: 30px;
+	}
+	.gallery_header {
+		font-size: 38px;
+	}
+	.rating_header {
+		font-size: 38px;
+	}
+	.organiser {
+		font-size: 14px;
+		margin-bottom: 25px;
+	}
+	.organiser_header {
+		font-size: 16px;
+	}
+	.webs {
+		height: 30px;
+		width: 30px;
+	}
+	.sign_up {
+		width: 175px;
+		height: 55px;
+		font-size: 15px;
+	}
+}
+@media (min-width: 769px) {
+	.about_heading {
+		font-size: 48px;
+		font-weight: 400;
+	}
+	.text_shadow {
+		font-size: 16px;
+	}
+	.server_features {
+		font-size: 18px;
+	}
+	.about_server {
+		font-size: 15px;
+	}
+	.header_bottom {
+		font-size: 13px;
+	}
+	.section_heading {
+		font-size: 44px;
+	}
+	.mod_heading {
+		font-size: 26px;
+	}
+	.mod_info {
+		font-size: 10px;
+	}
+	.download {
+		height: 50px;
+		font-size: 13px;
+	}
+	.gallery_header {
+		font-size: 44px;
+	}
+	.organiser_header {
+		font-size: 28px;
+	}
+	.organiser {
+		font-size: 26px;
+	}
+	.webs {
+		width: 45px;
+		height: 45px;
+		margin-bottom: 30px;
+	}
+}
+@media (min-width: 1025px){
+	.about_heading {
+		font-size: 64px;
+	}
+	.text_shadow {
+		font-size: 18px;
+	}
+	.server_features {
+		font-size: 20px;
+	}
+	.about_server {
+		font-size: 16px;
+	}
+	.header_bottom {
+		font-size: 14px;
+	}
+	.section_heading {
+		font-size: 60px;
+	}
+	.mod_heading {
+		font-size: 38px;
+	}
+	.mod_info {
+		font-size: 15px;
+	}
+	.download {
+		height: 65px;
+		font-size: 18px;
+	}
+	.gallery_header {
+		font-size: 60px;
+	}
+	.rating_header {
+		font-size: 44px
+	}
+	.organiser_header {
+		font-size: 28px;
+	}
+	.organiser {
+		font-size: 26px;
+	}
+	.webs {
+		width: 60px;
+		height: 60px;
+	}
+}
+@media (min-width: 1201px) {
+	.about_heading {
+		font-size: 80px;
+	}
+	.text_shadow {
+		font-size: 28px;
+	}
+	.server_features {
+		font-size: 30px;
+	}
+	.about_server {
+		font-size: 22px;
+	}
+	.header_bottom {
+		font-size: 16px;
+	}
+	.section_heading {
+		font-size: 70px;
+	}
+	.mod_heading {
+		font-size: 40px;
+	}
+	.mod_info {
+		font-size: 18px;
+	}
+	.download {
+		height: 65px;
+		font-size: 18px;
+	}
+	.gallery_header {
+		font-size: 70px;
+	}
+	.rating_header {
+		font-size: 70px;
+	}
+	.organiser_header {
+		font-size: 34px;
+	}
+	.organiser {
+		font-size: 32px;
+	}
+	.webs {
+		width: 75px;
+		height: 75px;
+	}
+}
